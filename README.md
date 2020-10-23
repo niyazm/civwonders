@@ -156,7 +156,7 @@ Chichen Itza near Valladolid or Merida, Mexico, tickets available
 ### Ungrouped Central America
 Panama Canal Panama City, Panama, https://www.tripadvisor.com/Attraction_Review-g294480-d299921-Reviews-Panama_Canal-Panama_City_Panama_Province.html  
 
-### Australia and New Zealand
+## Australia and New Zealand
 Uluru Australia https://parksaustralia.gov.au/uluru/
 Great Barrier Reef Australia, https://www.australia.com/en-us/places/cairns-and-surrounds/guide-to-the-great-barrier-reef.html
 Sydney Opera House Sydney, Australia
