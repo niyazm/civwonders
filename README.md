@@ -55,7 +55,7 @@ Eyjafjallajökull Iceland
 IV -- UN headquarters in Geneva and Vienna
 Lysefjord Stavanger, Norway, has tours
 ### Germany
-Ruhr Valley Essen, Germany, Gasometer, https://www.gasometer.de/en Make a trip of surrounding cities  
+Ruhr Valley Essen, Germany, Gasometer, https://www.gasometer.de/en Make a trip of surrounding cities, https://www.nrw-tourism.com/a-zollverein-coal-mine  
 Brandenburg Gate Berlin, Germany, public  
 V -- Neuschwantsein Castle Schloss Neuschwanstein, Germany, https://www.neuschwanstein.de/  
 V -- Prora Prora, Germany  
@@ -64,11 +64,12 @@ Giants Causeway Bushmills, UK
 Cliffs of Dover Dover, UK https://www.tripadvisor.com/Attraction_Review-g186313-d214772-Reviews-The_White_Cliffs_of_Dover-Dover_Kent_England.html  
 Stonehenge Wiltshire, UK  
 Oxford University Oxford, UK  
+III or IV --- Trinity College, UK
 Big Ben London, UK, Tours suspended as of 2020 oct  
 ### France
 Eiffel Tower Paris, France, tickets available,  
 V -- Louvre Paris, France  
-V -- Notre Dame Paris, France  
+V -- Notre Dame Paris, France  Plans to repair by 2024
 Mont St. Michel normandy, France, https://theculturetrip.com/europe/france/articles/8-things-to-know-before-you-visit-the-mont-saint-michel/  
 IV -- Versaille  
 ### Spain
