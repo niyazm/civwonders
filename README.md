@@ -38,7 +38,7 @@ St. Basil's Cathedral Moscow, Russia, https://www.travelallrussia.com/st-basil-m
 Hermitage St. Petersburg, Russia, https://www.hermitagemuseum.org/wps/portal/hermitage/?lng=en
 Bolshoi Theater Moscow, Russia, buy a show?
 Ubsunur hollow Nature Reserve http://becamper.com/page1157148.html
-## China and Tibet
+### China and Tibet
 IV -- The Kong Miao Qufu, Jining, Shandong, China
 IV -- Daimiao Temple, Taishan, Tai'an, Shandong, China
 IV -- Three Gorges Dam 
@@ -161,4 +161,3 @@ Uluru Australia https://parksaustralia.gov.au/uluru/
 Great Barrier Reef Australia, https://www.australia.com/en-us/places/cairns-and-surrounds/guide-to-the-great-barrier-reef.html
 Sydney Opera House Sydney, Australia
 Piopiotahi https://www.milford-sound.co.nz/
-
