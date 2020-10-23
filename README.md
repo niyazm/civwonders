@@ -39,15 +39,15 @@ Hermitage St. Petersburg, Russia, https://www.hermitagemuseum.org/wps/portal/her
 Bolshoi Theater Moscow, Russia, buy a show?
 Ubsunur hollow Nature Reserve http://becamper.com/page1157148.html
 ### China and Tibet
-IV -- The Kong Miao Qufu, Jining, Shandong, China
-IV -- Daimiao Temple, Taishan, Tai'an, Shandong, China
-IV -- Three Gorges Dam 
-V -- Porcelain Tower Nanjing, China https://travelanddesign.ca/7-places-to-visit-in-nanjing-china/
-Potala Palace Lhasa, Tibet, https://www.tibettravel.org/tibet-travel-guide/potala-palace/
-Forbidden City Beijing, China, tours available
-Terracotta Army Lintong District, Xi'an, Shaanxi, China, travelchinaguide.com/attraction/shaanxi/xian/terra_cotta_army/
-Zhangye Danxia China https://www.tripadvisor.com/Attraction_Review-g1850955-d1857482-Reviews-Zhangye_Danxia_Geopark-Linze_County_Gansu.html
-V -- Mt Kailash https://www.chinahighlights.com/nagri/mount-kailash.htm
+IV -- The Kong Miao Qufu, Jining, Shandong, China  
+IV -- Daimiao Temple, Taishan, Tai'an, Shandong, China  
+IV -- Three Gorges Dam  
+V -- Porcelain Tower Nanjing, China https://travelanddesign.ca/7-places-to-visit-in-nanjing-china/  
+Potala Palace Lhasa, Tibet, https://www.tibettravel.org/tibet-travel-guide/potala-palace/  
+Forbidden City Beijing, China, tours available  
+Terracotta Army Lintong District, Xi'an, Shaanxi, China, travelchinaguide.com/attraction/shaanxi/xian/terra_cotta_army/  
+Zhangye Danxia China https://www.tripadvisor.com/Attraction_Review-g1850955-d1857482-Reviews-Zhangye_Danxia_Geopark-Linze_County_Gansu.html  
+V -- Mt Kailash https://www.chinahighlights.com/nagri/mount-kailash.htm  
 
 ## Europe
 ### Ungrouped
