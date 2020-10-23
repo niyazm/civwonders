@@ -7,11 +7,22 @@ Amundsen-Scott Research Station South Pole, Antarctica visits are difficult
 
 ### Japan
 Kotoku-in Kamakura, Japan,https://www.kotoku-in.jp/en/
+
 V -- Himeji Castle Himeji, Japan, https://www.japan-guide.com/e/e3501.html
+
 V -- Mt. Fuji
 
+## Europe
+### Ungrouped
 Eyjafjallajökull Iceland
+### Germany
+Ruhr Valley Essen, Germany, Gasometer, https://www.gasometer.de/en Make a trip of surrounding cities
 
+Brandenburg Gate Berlin, Germany, public
+
+V -- Neuschwantsein Castle Schloss Neuschwanstein, Germany, https://www.neuschwanstein.de/
+
+V -- Prora Prora, Germany
 
 ## Africa
 ### Ungrouped
@@ -26,11 +37,7 @@ IV -- UN Headquarters Nairobi, Kenya
 University of Sankore Timbuktu, Mali
 V -- Great Mosque of Djenne, Mali
 
-Germany
-Ruhr Valley Essen, Germany, Gasometer, https://www.gasometer.de/en Make a trip of surrounding cities
-Brandenburg Gate Berlin, Germany, public
-V -- Neuschwantsein Castle Schloss Neuschwanstein, Germany, https://www.neuschwanstein.de/
-V -- Prora Prora, Germany
+
 
 Europe
 IV -- UN headquarters in Geneva and Vienna
